@@ -74,7 +74,6 @@ checkers/
 ├── position_set.cxx  - Position set implementation
 ├── black_king.png    - Black king piece image
 ├── red_king.png      - Red king piece image
-├── metadata.yml      - Submission details
 ├── WIKI.md           - Comprehensive documentation
 └── README.md         - This file
 
